@@ -1,0 +1,24 @@
+#podval {
+		position: bottom; /* Фиксированное положение */
+		left: 0; bottom: 0; /* Левый нижний угол */
+		padding: 0px; /* Поля вокруг текста */
+		background: url(glavnay/images/ogoni_header.jpg) 50% 0  repeat-x; /* Цвет фона */
+		color: #fff; /* Цвет текста */
+		font-size: 20; /* размер текста */
+		width: 100%; /* Ширина слоя */
+		height: 170px;
+		z-index: 100;
+		}
+		.thumb_podval img  {
+		border: 0px solid #696969; /* Рамка вокруг фотографии */
+		padding: 10px; /* Расстояние от картинки до рамки */
+		background: #696969; /* Цвет фона */
+		margin-right: 10px; /* Отступ справа */
+		margin-bottom: 10px; /* Отступ снизу */
+		z-index: 100;
+		}
+		/* фон текста */
+		h1 {
+		background: #fff; /* Цвет фона под заголовком */
+		padding: 2px; /* Поля вокруг текста */
+		}
